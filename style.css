@@ -37,10 +37,11 @@ section {
     width: 50%;
     padding-left: 2%;
     text-align: justify;
+
 }
 
 .half img {
-    width: 80%;
+    width: 70%;
 }
 
 .link-button {
@@ -57,6 +58,49 @@ section {
 .sec1 {
 
 
-    background-image: url(images/top-banner.png);
+
     background-repeat: no-repeat;
+
+    background-image: url(images/b35dc66c67afbb9942bf53cb01e92c7d.jpg);
+
+
+
+}
+
+.sec2 {
+
+    background: no-repeat;
+    background-image: url(images/4-45002_multi-colors-in-circle-png-image-colorful-circle.png);
+    background-position: 150%;
+    background-color: rgb(249, 250, 253);
+
+
+}
+
+.half2 {
+
+
+    width: 50%;
+    padding-right: 2%;
+    text-align: justify;
+
+}
+
+.half2 img {
+
+    width: 70%;
+}
+
+h2 {
+    color: rebeccapurple;
+}
+
+.link-button2 {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange, tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 700;
+
 }
